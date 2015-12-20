@@ -1,4 +1,4 @@
-baseurl = "http://replace-this-with-your-hugo-site.com/"
+baseurl = "http://bootcamp.spencerlyon.com/"
 languageCode = "en-us"
 title = "Data Bootcamp"
 metaDataFormat = "yaml"
