@@ -1,0 +1,27 @@
+[Description]
+    Name = "Description"
+    URL = "/bootcamp_description"
+
+[faq]
+    Name = "FAQ"
+    URL = "/bootcamp_faq"
+
+[mini_2015]
+    Name = "Mini course (2015)"
+    URL = "/bootcamp_mini_2015"
+
+[duedates_mba]
+    Name = "Duedates (MBA)"
+    URL = "/bootcamp_duedates_mba"
+
+[outline]
+    Name = "Course outline"
+    URL = "/bootcamp_outline"
+
+[job_postings]
+    Name = "Job Postings"
+    URL = "/job_postings"
+
+[related-courses]
+    Name = "Related Courses"
+    URL = "/related_courses"
