@@ -6,7 +6,7 @@ theme = "hyde-y"
 
 [params]
     # You can use markdown here.
-    topline = "NYU Econ"
+    topline = "Data + Python @ NYU Stern"
     brand = "Data Bootcamp"
     footline = "A product of the NYU Python Factory @ NYU Stern"
 
