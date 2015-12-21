@@ -4,10 +4,8 @@ date: "2015-12-17"
 ---
 
 
-### Data Bootcamp:  MBA Due Dates
-
 Data Bootcamp, NYU Stern Spring 2016    
-[Main course page](bootcamp_mainpage)
+[Main course page](/)
 
 Due dates for various deliverables are listed below.  All dates are Wednesdays.  
 

@@ -3,8 +3,6 @@ title:  'Related Courses'
 date: "2015-12-17"
 ---
 
-### Related courses
-
 Running list of NYU courses that involve significant amounts of programming.  Organized by area.  These are graduate courses, but some of them have undergraduate versions.  Work in progress, comments and corrections welcome.  
 
 #### MBA courses

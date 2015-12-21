@@ -7,7 +7,7 @@ date: "2015-12-17"
 ### Data Bootcamp:  Course Description & Sales Pitch
 
 A course at NYU’s Stern School of Business   
-[Main course page](bootcamp_mainpage)
+[Main course page](/)
 
 
 #### Course description

@@ -3,9 +3,6 @@ title:  'Course Description'
 date: "2015-12-17"
 ---
 
-
-### Data Bootcamp
-
 A course at NYU’s Stern School of Business
 [Main course page](/)
 

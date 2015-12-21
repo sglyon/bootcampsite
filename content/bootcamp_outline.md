@@ -1,11 +1,9 @@
 ---
-title:  'Outline'
+title:  'Data Bootcamp Outline'
 date: "2015-12-17"
 ---
 
-### Data Bootcamp Outline
-
-[Main course page](bootcamp_mainpage)
+[Main course page](/)
 
 Outline of topics for the NYU Stern course Data Bootcamp.  We expect each topic to take roughly one week.  
 

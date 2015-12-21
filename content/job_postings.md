@@ -1,10 +1,7 @@
 ---
-title:  'Jobs'
+title:  'Job Postings'
 date: "2015-12-17"
 ---
-
-
-### Job postings
 
 We've gotten a few requests to post jobs.  We will send everything we get to our [Office of Career Development]
 (http://www.stern.nyu.edu/programs-admissions/full-time-mba/career/career-development),
